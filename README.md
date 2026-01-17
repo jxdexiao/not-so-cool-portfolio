@@ -1,4 +1,3 @@
-Markdown
 # Personal Portfolio / Profile Page
 
 A sleek, responsive personal landing page featuring a glassmorphism design, real-time GitHub repository fetching, and an integrated audio player. This project is designed to be a "drop-in" profile page that automatically pulls your latest work.
